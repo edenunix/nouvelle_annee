@@ -45,7 +45,7 @@ Cette page a été conçue pour :
 ## 📂 Structure du projet
 
 ```text
-📁 nouvelle annees
+📁 nouvelle année
 │
 ├── index.html
 ├── logo+site.png
