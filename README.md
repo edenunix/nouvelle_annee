@@ -45,7 +45,7 @@ Cette page a été conçue pour :
 ## 📂 Structure du projet
 
 ```text
-📁 bonne-annee-2026/
+📁 nouvelle annees
 │
 ├── index.html
 ├── logo+site.png
